@@ -60,4 +60,10 @@ body
 {
     position: relative;
 }
+.container .links .icon
+{
+    width: 30px;
+    display: flex;
+    flex-wrap: wrap;    
+}
 /*end header*/
