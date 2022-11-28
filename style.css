@@ -421,3 +421,10 @@ body
     color: #777;
 }
 /*end about*/
+/*start contact*/
+.contact
+{
+    padding-bottom: var(--section-padding);
+    padding-top: var(--section-padding);
+}
+/*end contact*/
