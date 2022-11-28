@@ -382,6 +382,18 @@ body
 }
 .about .about-content .text
 {
-    flex-basis: calc(100% - 500px);
+    flex-basis: calc(100%  - 500px);
+}
+.about .about-content .text p:first-of-type
+{
+
+} 
+.about .about-content .text hr
+{
+    
+}
+.about .about-content .text p:last-of-type
+{
+
 }
 /*end about*/
