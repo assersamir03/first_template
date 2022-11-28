@@ -373,5 +373,8 @@ body
     content: "";
     position: absolute;
     width: 120px;
+    height: 300px;
+    border-left: 80px solid red;
+    border-bottom: 80px solid red;
 }
 /*end about*/
