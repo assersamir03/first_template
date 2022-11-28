@@ -361,9 +361,12 @@ body
     width: 250px;
     height: 375px;
 }
-.about .about-content .image img
+@media (max-width:991px)
 {
-    max-width: 100%;
+    .about .about-content .image
+    {
+        margin-top: 0 auto 60px;
+    }
 }
 .about .about-content .image::before
 {
