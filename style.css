@@ -62,13 +62,27 @@ body
 }
 .container .links .icon
 {
-    width: 30px;
+    width: 50px;
     display: flex;
-    flex-wrap: wrap;    
+    flex-wrap: wrap;  
+    justify-content: flex-end;  
 }
 .container .links .icon span
 {
     background-color:#333 ;
     margin: 5px;
+    height: 2px;
+}
+.container .links .icon span:first-child
+{
+    width: 100%;
+}
+.container .links .icon span:nth-child(2)
+{
+    width: 50%;
+}
+.container .links .icon span:last-child
+{
+    width: 100%;
 }
 /*end header*/
