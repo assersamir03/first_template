@@ -442,4 +442,8 @@ body
     letter-spacing: -2px;
     margin-bottom: 15px;
 }
+.contact .info .link
+{
+    display: block;
+}
 /*end contact*/
