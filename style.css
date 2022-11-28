@@ -60,6 +60,13 @@ body
 {
     position: relative;
 }
+.header .links:hover .icon span:nth-child(2)
+{
+    width: 100%;
+}
+{
+
+}
 .container .links .icon
 {
     width: 50px;
@@ -70,7 +77,7 @@ body
 .container .links .icon span
 {
     background-color:#333 ;
-    margin: 5px;
+    margin: 3.5px;
     height: 2px;
 }
 .container .links .icon span:first-child
@@ -80,6 +87,7 @@ body
 .container .links .icon span:nth-child(2)
 {
     width: 50%;
+    transition: 0.5s;
 }
 .container .links .icon span:last-child
 {
