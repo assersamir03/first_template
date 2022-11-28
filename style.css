@@ -434,4 +434,9 @@ body
     padding-top: var(--section-padding);
     text-align: center;
 }
+.contact .info .label
+{
+    font-size: 30;
+    font-weight: 800;
+}
 /*end contact*/
