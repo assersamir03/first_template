@@ -66,4 +66,9 @@ body
     display: flex;
     flex-wrap: wrap;    
 }
+.container .links .icon span
+{
+    background-color:#333 ;
+    margin: 5px;
+}
 /*end header*/
