@@ -462,4 +462,11 @@ body
     margin-left: 10px;
     color: var(--secondary-color);
 }
+@media (max-width:767px){
+    .contact .info .link
+    .contact .info .label
+    {
+        font-size: 25px;
+    }
+}
 /*end contact*/
