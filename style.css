@@ -388,6 +388,14 @@ body
     right: -150px;
     top: -35px;
 }
+@media (max-width:991px)
+{
+    .about .about-content .image::before
+    .about .about-content .image::after
+    {
+        display: none;
+    }
+}
 .about .about-content .text
 {
     flex-basis: calc(100%  - 500px);
