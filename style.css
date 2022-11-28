@@ -275,4 +275,13 @@ body
     font-weight: 300;
     line-height: 1.6;
 }
+.services .secrives-content .srv .image
+{
+    text-align: center;
+    position:relative ;
+}
+.services .secrives-content .srv .image::before
+{
+    content: "";
+}
 /*end of the features section*/
