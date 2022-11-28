@@ -380,4 +380,8 @@ body
     right: -150px;
     top: -35px;
 }
+.about .about-content .text
+{
+    flex-basis: calc(100% - 500px);
+}
 /*end about*/
