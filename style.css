@@ -5,7 +5,7 @@
     --secondary-color:#2c4755;
     --section-padding:60px;
     --main-backgroundcolor:#f6f6f6;
-    
+
 }
 /*start of the global rules*/
 *
@@ -303,8 +303,8 @@ body
 /*start portfolio*/
 .portfolio
 {
-    padding-top: 60px;
-    padding-bottom: 60px;
-    background-color: #f6f6f6;
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
+    background-color: var(--main-backgroundcolor);
 }
 /*end portfolio*/
