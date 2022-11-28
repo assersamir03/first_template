@@ -259,6 +259,6 @@ body
 .services .secrives-content .srv i
 {
     color:var(--main-color);
-    
+    flex-basis: 60px;
 }
 /*end of the features section*/
