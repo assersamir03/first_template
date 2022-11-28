@@ -64,9 +64,6 @@ body
 {
     width: 100%;
 }
-{
-
-}
 .container .links .icon
 {
     width: 50px;
@@ -92,5 +89,21 @@ body
 .container .links .icon span:last-child
 {
     width: 100%;
+}
+.header .links ul
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #f6f6f6;
+    position: absolute;
+    right: 0;
+    min-width: 200px;
+    top: calc(100%+20px);
+    display: none;
+}
+.header .links ul::before
+{
+    content:"";
 }
 /*end header*/
