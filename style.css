@@ -134,14 +134,22 @@ body
 }
 /*end header*/
 /*start the landing section*/
-h1
-{
-    margin: 0;
-}
 .landing
 {
     background-image: url(IMGES/pexels-joyston-judah-933054.jpg);
     background-size: cover;
-    height: calc(100vh- 64px);
+    height: calc(100vh - 64px);
+}
+.landing .intro-text
+{
+
+}
+.landing .intro-text h1
+{
+    margin: 0;
+}
+.landing .intro-text p
+{
+
 }
 /*end the landing section*/
