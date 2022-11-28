@@ -351,7 +351,8 @@ body
 {
     .about .about-content
     {
-        
+        flex-direction: column;
+        text-align: center;
     }
 }
 .about .about-content .image
