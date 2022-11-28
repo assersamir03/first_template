@@ -3,7 +3,9 @@
 {
     --main-color:#10cab7;
     --secondary-color:#2c4755;
-    --section-padding:60px
+    --section-padding:60px;
+    --main-backgroundcolor:#f6f6f6;
+    
 }
 /*start of the global rules*/
 *
