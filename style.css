@@ -46,6 +46,12 @@ body
     }
 }
 /*end of the global rules*/
+/*start components*/
+.special-heading
+{
+    
+}
+/*end components*/
 /*start header*/
 .header {
     padding: 20px;
