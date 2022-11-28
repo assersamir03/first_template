@@ -281,7 +281,7 @@ body
     text-align: center;
     position:relative ;
 }
-.services .secrives-content.image::before
+.services .secrives-content .image::before
 {
     content: "";
     background-color: var(--secondary-color);
