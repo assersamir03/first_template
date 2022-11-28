@@ -139,6 +139,7 @@ body
     background-image: url(IMGES/pexels-joyston-judah-933054.jpg);
     background-size: cover;
     height: calc(100vh - 64px);
+    position: relative;
 }
 .landing .intro-text
 {
