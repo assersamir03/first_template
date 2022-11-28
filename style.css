@@ -323,4 +323,14 @@ body
 {
     padding :20px;
 }
+.portfolio .portfolio-cotent .card .info p
+{
+    margin :0;
+}
+.portfolio .portfolio-cotent .card .info h3
+{
+    color: #777;
+    line-height: 1.6;
+    margin-bottom: 0;
+}
 /*end portfolio*/
