@@ -432,5 +432,6 @@ body
 {
     padding-bottom: var(--section-padding);
     padding-top: var(--section-padding);
+    text-align: center;
 }
 /*end contact*/
