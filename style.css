@@ -49,7 +49,7 @@ body
 /*start components*/
 .special-heading
 {
-    
+    color: #ebeced;
 }
 /*end components*/
 /*start header*/
@@ -209,4 +209,5 @@ body
     color: #777;
     font-size: 17px;
 }
+
 /*end of the features section*/
