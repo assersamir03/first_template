@@ -457,4 +457,9 @@ body
     margin-top: 20px;
     font-size: 18;
 }
+.contact .info .social i
+{
+    margin-left: 10px;
+    color: var(--secondary-color);
+}
 /*end contact*/
