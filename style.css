@@ -256,4 +256,9 @@ body
         text-align: center;
     }
 }
+.services .secrives-content .srv i
+{
+    color:var(--main-color);
+    
+}
 /*end of the features section*/
