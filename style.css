@@ -447,5 +447,7 @@ body
     display: block;
     font-size: 30px;
     font-weight: 800px;
+    color: var(--main-color);
+    text-decoration: none;
 }
 /*end contact*/
