@@ -112,6 +112,10 @@ body
     right: 5px;
     top: -20px;
 }
+.header .links:hover ul
+{
+    display: block;
+}
 .header .links ul li a
 {
     display: block;
@@ -123,5 +127,9 @@ body
 .header .links ul li a:hover
 {
     padding-left: 25px;
+}
+.header .links ul li :not(:last-child)
+{
+    border-bottom: #ddd;
 }
 /*end header*/
