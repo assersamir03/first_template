@@ -360,7 +360,8 @@ body
 .about .about-content .image::before
 {
     content: "";
-    
+    position:absolute ;
+    background-color: var(--secondary-color);
 }
 .about .about-content .image::after
 {
