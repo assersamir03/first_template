@@ -370,6 +370,8 @@ body
 }
 .about .about-content .image::after
 {
-
+    content: "";
+    position: absolute;
+    width: 120px;
 }
 /*end about*/
