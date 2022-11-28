@@ -376,5 +376,8 @@ body
     height: 300px;
     border-left: 80px solid red;
     border-bottom: 80px solid red;
+    z-index: -1;
+    right: -150px;
+    top: -35px;
 }
 /*end about*/
