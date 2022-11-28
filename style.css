@@ -152,6 +152,8 @@ body
     left: 50%;
     top: 50%;
     transform: translate(-50%,50%);
+    width: 320px;
+    max-width: 100%;
 }
 .landing .intro-text h1
 {
@@ -160,8 +162,10 @@ body
     font-size: 50px;
     color: var(--main-color);
 }
-.landing .intro-text p/*the git just bugged and iam trying to fix it*/
+.landing .intro-text p
 {
-
+    font-size: 19px;
+    line-height: 1.8;
+    text-align: center;
 }
 /*end the landing section*/
