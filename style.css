@@ -177,4 +177,8 @@ body
     padding-bottom: 60px;
     background-color: #f6f6f6;
 }
+.features .container
+{
+    display: grid;
+}
 /*end of the features section*/
