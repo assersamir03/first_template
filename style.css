@@ -120,4 +120,8 @@ body
     color: #333;
     transition: 0.5s;
 }
+.header .links ul li a:hover
+{
+    padding-left: 25px;
+}
 /*end header*/
