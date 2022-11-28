@@ -319,4 +319,8 @@ body
     background-color: white;
     max-width: 100%;
 }
+.portfolio .portfolio-cotent .card .info
+{
+    padding :20px;
+}
 /*end portfolio*/
