@@ -296,5 +296,12 @@ body
 {
     width: 260px;
 }
-
 /*end of the features section*/
+/*start portfolio*/
+.portfolio
+{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #f6f6f6;
+}
+/*end portfolio*/
