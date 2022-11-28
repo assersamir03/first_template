@@ -192,7 +192,11 @@ body
 {
     color: var(--main-color);
 }
-.features h3
+.features .feat h3
+{
+    font-weight: 800;
+}
+.features .feat p
 {
 
 }
