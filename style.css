@@ -284,6 +284,7 @@ body
 .services .secrives-content.image::before
 {
     content: "";
+    background-color: var(--secondary-color);
 }
 .services .secrives-content .image img
 {
