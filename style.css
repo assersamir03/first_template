@@ -284,4 +284,8 @@ body
 {
     content: "";
 }
+.services .secrives-content .srv .image img
+{
+    width: 260px;
+}
 /*end of the features section*/
